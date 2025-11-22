@@ -1,4 +1,3 @@
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/a40601cd-5403-4622-ac19-357a6cf016a7" /># Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
 ### DATE: 22-11-2025
 
 ## AIM:
